@@ -1,5 +1,5 @@
 
-# Sikke kripto varlık ve akıllı sözleşmeler platformu
+# Sikke digital para ve akıllı sözleşmeler platformu
 ## Anadoluda icat edilen ilk para sikke!
 Sikke, M.Ö. 7. yüzyılda Anadolu'da Lidyalılar tarafından icat edilmiştir. İlk versiyonları altın ve gümüş karışımından meydana gelen maddelerden yapılmıştır. Bu doğal madeni ilk kez altın ve gümüşe ayırarak sikke bastıran ilk yönetici Krezüs'tür.
 ## Digital varlık olarak sikke
