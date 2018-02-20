@@ -1,1 +1,1 @@
-## Sikke Api ve Uygulamalar için rezerv edilmiştir. 
+## Sikke Platformu kaynak kodları için rezerve edilmiştir.
