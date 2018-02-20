@@ -1,1 +1,1 @@
-## Sikke Api ve Uygulamalar için rezerv edilmişir. 
+## Sikke Api ve Uygulamalar için rezerv edilmiştir. 
