@@ -10,6 +10,9 @@ Sikke Blockchain Platformumuz için konuyla ilgili, uzman geliştiricileri aram�
 * [Web Cüzdan](https://github.com/sikke-official/web-wallet)
 * [Android Cüzdan](https://github.com/sikke-official/android-wallet)
 * [IOS Cüzdan](https://github.com/sikke-official/ios-wallet)
+* [Borsa API](https://github.com/sikke-official/borsa-api)
+* [Parifix](https://github.com/sikke-official/parifix)
+
 
 #### Resmi İletişim Kanallarımız
 - Bize Yazın :	http://blog.sikke.com.tr/bize-yazin/
