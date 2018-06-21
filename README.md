@@ -1,4 +1,4 @@
-# Sikke API v1.0 sayfalarımıza hoşgeldiniz
+# Sikke API v1.0
 
 Sikke.Network kısmi olarak open source geliştirilen Türkiye'nin ilk ve tek blockchain krito para ve ico geliştirme platformudur.
 Sikke Platformunu kullanarak  kolayca kendi kripto paranızı geliştirebilir, blockchain projeleriniz için fon toplayabilirsiniz.
