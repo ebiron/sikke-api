@@ -5,7 +5,7 @@ Sikke Platformunu kullanarak  kolayca kendi kripto paranızı geliştirebilir, b
 
 Sikke Blockchain Platformumuz için konuyla ilgili, uzman geliştiricileri aramızda görmekten ve kodlarımızı dahada geliştirmelerinden mutluluk duyarız!
 
-#### Geliştiriciler için Sikke Platformu
+## Geliştiriciler için Sikke Platformu
 * [Sikke API v1.0 Dökümanları](https://github.com/sikke-official/sikke-api/wiki/Sikke-API-v1.0)
 * [Web Cüzdan](https://github.com/sikke-official/web-wallet)
 * [Android Cüzdan](https://github.com/sikke-official/android-wallet)
@@ -14,7 +14,7 @@ Sikke Blockchain Platformumuz için konuyla ilgili, uzman geliştiricileri aram�
 * [Parifix](https://github.com/sikke-official/parifix)
 
 
-#### Resmi İletişim Kanallarımız
+## Resmi İletişim Kanallarımız
 - Bize Yazın :	http://blog.sikke.com.tr/bize-yazin/
 - E-Posta	: support@sikke.com.tr
 - Telefon	: +90 (850) 302 6000
