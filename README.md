@@ -1,5 +1,9 @@
 # Sikke API v1.0
 
+![version](https://img.shields.io/badge/version-1.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/material-dashboard.svg?maxAge=2592000)]()
+
+![sikke.com.tr](https://www.sikke.com.tr/img/tr/social.jpg)
+
 Sikke.Network kısmi olarak open source geliştirilen Türkiye'nin ilk ve tek blockchain krito para ve ico geliştirme platformudur.
 Sikke Platformunu kullanarak  kolayca kendi kripto paranızı geliştirebilir, blockchain projeleriniz için fon toplayabilirsiniz.
 
