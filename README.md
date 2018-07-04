@@ -10,7 +10,7 @@ Sikke Platformunu kullanarak  kolayca kendi kripto paranızı geliştirebilir, b
 Sikke Blockchain Platformumuz için konuyla ilgili, uzman geliştiricileri aramızda görmekten ve kodlarımızı dahada geliştirmelerinden mutluluk duyarız!
 
 ## Geliştiriciler için Sikke Platformu
-* [Sikke API v1.0 Dökümanları](https://github.com/sikke-official/sikke-api/wiki/Sikke-API-v1.0)
+* [Sikke API v1.0 Dökümanları](https://github.com/sikke-official/sikke-api/wiki)
 * [Web Cüzdan](https://github.com/sikke-official/web-wallet)
 * [Android Cüzdan](https://github.com/sikke-official/android-wallet)
 * [IOS Cüzdan](https://github.com/sikke-official/ios-wallet)
