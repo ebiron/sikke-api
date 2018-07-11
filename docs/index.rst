@@ -1,6 +1,13 @@
+Sikke API v1.0 Dokümantasyonu
+=================
+
 .. raw:: html
 
    <p align="center">
+
+.. raw:: html
+
+   <img src="https://sikke.com.tr/img/kurumsal/sikke-logo.png" alt="Sikke Logo" height=150px>
 
 .. raw:: html
 
